@@ -7,3 +7,7 @@ for (let i = 0; i < 3; i++) {
 }
 
 ```
+
+### Homework Finished 12/07/2567
+- นายวัชรพล แดงเปี่ยม (มายด์)
+- Online-CC#18
